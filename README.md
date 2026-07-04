@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 6 |
 
 ---
 
@@ -14,7 +14,10 @@
 
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (1)
+- [graphs](#graphs) (1)
+- [greedy](#greedy) (1)
 
 ---
 
@@ -30,11 +33,29 @@
 |---|---------|------------|----------|
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 893C | [Rumor](https://codeforces.com/contest/893/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/893/C%20-%20Rumor/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 893C | [Rumor](https://codeforces.com/contest/893/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/893/C%20-%20Rumor/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 893C | [Rumor](https://codeforces.com/contest/893/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/893/C%20-%20Rumor/solution.cpp) |
 
 ---
 
