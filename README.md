@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 6 |
+| 3 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -20,6 +21,12 @@
 - [greedy](#greedy) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### bitmasks
 
