@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 7 |
+| 5 | 7 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
 
@@ -51,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
 | 1097B | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/1097/B%20-%20Petr%20and%20a%20Combination%20Lock/solution.cpp) |
 
 ### graphs
