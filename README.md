@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (1)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -31,6 +31,7 @@
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/harshitj183/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### bitmasks
 
